@@ -975,12 +975,6 @@ Write-DebugLog "MainStatusBar object exists: $($MainStatusBar -ne $null)"
 Write-DebugLog "txtStatusBarSubnets object exists: $($txtStatusBarSubnets -ne $null)"
 Write-DebugLog "txtStatusBarSelected object exists: $($txtStatusBarSelected -ne $null)"
 
-if ($MainStatusBar -ne $null) {
-    Write-DebugLog "Current MainStatusBar visibility: $($MainStatusBar.Visibility)"
-    $MainStatusBar.Visibility = "Visible"
-    Write-DebugLog "Set MainStatusBar visibility to: $($MainStatusBar.Visibility)"
-}
-
            # Enable Delete key to remove selected entries
            $dgSubnets.Add_PreviewKeyDown({
                param($sender, $e)
@@ -1220,14 +1214,9 @@ if ($MainStatusBar -ne $null) {
        }
 
        # Main tab control selection changed event
-        # Main tab control selection changed event
 if ($MainTabControl -ne $null) {
 $MainTabControl.Add_SelectionChanged({
-    if ($MainTabControl.SelectedItem.Header -eq "IP Network Identifier") {
-        if ($MainStatusBar -ne $null) {
-            $MainStatusBar.Visibility = "Visible"
-        }
-    } else {
+    if ($MainTabControl.SelectedItem.Header -ne "IP Network Identifier") {
         if ($MainStatusBar -ne $null) {
             $MainStatusBar.Visibility = "Collapsed"
         }
