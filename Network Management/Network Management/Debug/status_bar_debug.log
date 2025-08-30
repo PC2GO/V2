@@ -1,0 +1,181 @@
+2025-08-29 17:21:04 - Entering Update-SubnetDataGridWithSearch
+2025-08-29 17:21:04 - Setting MainStatusBar to Visible
+2025-08-29 17:21:04 - MainStatusBar visibility after change: Visible
+2025-08-29 17:21:04 - Retrieved 176 subnet entries
+2025-08-29 17:21:04 - Updating txtStatusBarSubnets text to: Total Subnets: 176
+2025-08-29 17:21:04 - Updating txtStatusBarSelected text
+2025-08-29 17:21:04 - Initializing IP Network event handlers
+2025-08-29 17:21:04 - MainStatusBar object exists: True
+2025-08-29 17:21:04 - txtStatusBarSubnets object exists: True
+2025-08-29 17:21:04 - txtStatusBarSelected object exists: True
+2025-08-29 17:21:04 - Current MainStatusBar visibility: Visible
+2025-08-29 17:21:04 - Set MainStatusBar visibility to: Visible
+2025-08-29 17:23:48 - Entering Update-SubnetDataGridWithSearch
+2025-08-29 17:23:48 - Setting MainStatusBar to Visible
+2025-08-29 17:23:48 - MainStatusBar visibility after change: Visible
+2025-08-29 17:23:48 - Retrieved 176 subnet entries
+2025-08-29 17:23:48 - Updating txtStatusBarSubnets text to: Total Subnets: 176
+2025-08-29 17:23:48 - Updating txtStatusBarSelected text
+2025-08-29 17:23:49 - Initializing IP Network event handlers
+2025-08-29 17:23:49 - MainStatusBar object exists: True
+2025-08-29 17:23:49 - txtStatusBarSubnets object exists: True
+2025-08-29 17:23:49 - txtStatusBarSelected object exists: True
+2025-08-29 17:24:31 - Entering Update-SubnetDataGridWithSearch
+2025-08-29 17:24:31 - Setting MainStatusBar to Visible
+2025-08-29 17:24:31 - MainStatusBar visibility after change: Visible
+2025-08-29 17:24:31 - Retrieved 176 subnet entries
+2025-08-29 17:24:31 - Updating txtStatusBarSubnets text to: Total Subnets: 176
+2025-08-29 17:24:31 - Updating txtStatusBarSelected text
+2025-08-29 17:24:31 - Initializing IP Network event handlers
+2025-08-29 17:24:31 - MainStatusBar object exists: True
+2025-08-29 17:24:31 - txtStatusBarSubnets object exists: True
+2025-08-29 17:24:31 - txtStatusBarSelected object exists: True
+2025-08-29 17:24:31 - Current MainStatusBar visibility: Visible
+2025-08-29 17:24:31 - Set MainStatusBar visibility to: Visible
+2025-08-29 17:27:37 - Entering Update-SubnetDataGridWithSearch
+2025-08-29 17:27:37 - Setting MainStatusBar to Visible
+2025-08-29 17:27:38 - MainStatusBar visibility after change: Visible
+2025-08-29 17:27:38 - Retrieved 176 subnet entries
+2025-08-29 17:27:38 - Updating txtStatusBarSubnets text to: Total Subnets: 176
+2025-08-29 17:27:38 - Updating txtStatusBarSelected text
+2025-08-29 17:27:38 - Initializing IP Network event handlers
+2025-08-29 17:27:38 - MainStatusBar object exists: True
+2025-08-29 17:27:38 - txtStatusBarSubnets object exists: True
+2025-08-29 17:27:38 - txtStatusBarSelected object exists: True
+2025-08-29 17:27:38 - Current MainStatusBar visibility: Visible
+2025-08-29 17:27:38 - Set MainStatusBar visibility to: Visible
+2025-08-29 17:27:40 - Main tab selection changed
+2025-08-29 17:27:40 - Selected main tab: IP Network Identifier
+2025-08-29 17:27:40 - IP Network tab selected
+2025-08-29 17:27:42 - Main tab selection changed
+2025-08-29 17:27:42 - Selected main tab: IP Network Identifier
+2025-08-29 17:27:42 - IP Network tab selected
+2025-08-29 17:27:43 - Main tab selection changed
+2025-08-29 17:27:43 - Selected main tab: Site Network Identifier
+2025-08-29 17:27:43 - Site Network tab selected
+2025-08-29 17:27:43 - Main tab selection changed
+2025-08-29 17:27:43 - Selected main tab: Site Network Identifier
+2025-08-29 17:27:43 - Site Network tab selected
+2025-08-29 17:27:44 - Main tab selection changed
+2025-08-29 17:27:44 - Selected main tab: Site Network Identifier
+2025-08-29 17:27:44 - Site Network tab selected
+2025-08-29 17:27:44 - Main tab selection changed
+2025-08-29 17:27:44 - Selected main tab: Site Network Identifier
+2025-08-29 17:27:44 - Site Network tab selected
+2025-08-29 17:27:45 - Main tab selection changed
+2025-08-29 17:27:45 - Selected main tab: Site Network Identifier
+2025-08-29 17:27:45 - Site Network tab selected
+2025-08-29 17:27:46 - Main tab selection changed
+2025-08-29 17:27:46 - Selected main tab: Site Network Identifier
+2025-08-29 17:27:46 - Site Network tab selected
+2025-08-29 17:27:47 - Main tab selection changed
+2025-08-29 17:27:47 - Selected main tab: IP Network Identifier
+2025-08-29 17:27:47 - IP Network tab selected
+2025-08-29 17:27:48 - Main tab selection changed
+2025-08-29 17:27:48 - Selected main tab: IP Network Identifier
+2025-08-29 17:27:48 - IP Network tab selected
+2025-08-29 17:27:49 - Main tab selection changed
+2025-08-29 17:27:49 - Selected main tab: IP Network Identifier
+2025-08-29 17:27:49 - IP Network tab selected
+2025-08-29 17:27:50 - Main tab selection changed
+2025-08-29 17:27:50 - Selected main tab: IP Network Identifier
+2025-08-29 17:27:50 - IP Network tab selected
+2025-08-29 17:27:50 - Main tab selection changed
+2025-08-29 17:27:50 - Selected main tab: IP Network Identifier
+2025-08-29 17:27:50 - IP Network tab selected
+2025-08-29 17:27:52 - Main tab selection changed
+2025-08-29 17:27:52 - Selected main tab: IP Network Identifier
+2025-08-29 17:27:52 - IP Network tab selected
+2025-08-29 17:30:12 - Entering Update-SubnetDataGridWithSearch
+2025-08-29 17:30:12 - Not on Manage Subnets tab, not showing status bar
+2025-08-29 17:30:12 - Retrieved 176 subnet entries
+2025-08-29 17:30:12 - Updating txtStatusBarSubnets text to: Total Subnets: 176
+2025-08-29 17:30:12 - Updating txtStatusBarSelected text
+2025-08-29 17:30:12 - Initializing IP Network event handlers
+2025-08-29 17:30:12 - MainStatusBar object exists: True
+2025-08-29 17:30:12 - txtStatusBarSubnets object exists: True
+2025-08-29 17:30:12 - txtStatusBarSelected object exists: True
+2025-08-29 17:30:12 - Current MainStatusBar visibility: Collapsed
+2025-08-29 17:30:12 - Set MainStatusBar visibility to: Visible
+2025-08-29 17:30:14 - Main tab selection changed
+2025-08-29 17:30:14 - Selected main tab: IP Network Identifier
+2025-08-29 17:30:14 - IP Network tab selected
+2025-08-29 17:30:14 - IPNavTabControl or SelectedItem is null
+2025-08-29 17:30:15 - Main tab selection changed
+2025-08-29 17:30:15 - Selected main tab: IP Network Identifier
+2025-08-29 17:30:15 - IP Network tab selected
+2025-08-29 17:30:15 - IPNavTabControl or SelectedItem is null
+2025-08-29 17:30:16 - Main tab selection changed
+2025-08-29 17:30:16 - Selected main tab: Site Network Identifier
+2025-08-29 17:30:16 - Site Network tab selected
+2025-08-29 17:30:16 - Hiding IP status bar - switched to Site Network
+2025-08-29 17:30:16 - Main tab selection changed
+2025-08-29 17:30:16 - Selected main tab: Site Network Identifier
+2025-08-29 17:30:16 - Site Network tab selected
+2025-08-29 17:30:16 - Hiding IP status bar - switched to Site Network
+2025-08-29 17:30:17 - Main tab selection changed
+2025-08-29 17:30:17 - Selected main tab: IP Network Identifier
+2025-08-29 17:30:17 - IP Network tab selected
+2025-08-29 17:30:17 - IPNavTabControl or SelectedItem is null
+2025-08-29 17:30:19 - Main tab selection changed
+2025-08-29 17:30:19 - Selected main tab: IP Network Identifier
+2025-08-29 17:30:19 - IP Network tab selected
+2025-08-29 17:30:19 - IPNavTabControl or SelectedItem is null
+2025-08-29 17:30:20 - Main tab selection changed
+2025-08-29 17:30:20 - Selected main tab: IP Network Identifier
+2025-08-29 17:30:20 - IP Network tab selected
+2025-08-29 17:30:20 - IPNavTabControl or SelectedItem is null
+2025-08-29 17:33:02 - Entering Update-SubnetDataGridWithSearch
+2025-08-29 17:33:02 - Not on Manage Subnets tab, not showing status bar
+2025-08-29 17:33:02 - Retrieved 176 subnet entries
+2025-08-29 17:33:02 - Updating txtStatusBarSubnets text to: Total Subnets: 176
+2025-08-29 17:33:02 - Updating txtStatusBarSelected text
+2025-08-29 17:33:02 - Initializing IP Network event handlers
+2025-08-29 17:33:02 - MainStatusBar object exists: True
+2025-08-29 17:33:02 - txtStatusBarSubnets object exists: True
+2025-08-29 17:33:02 - txtStatusBarSelected object exists: True
+2025-08-29 17:33:02 - Current MainStatusBar visibility: Collapsed
+2025-08-29 17:33:02 - Set MainStatusBar visibility to: Visible
+2025-08-30 13:44:48 - Entering Update-SubnetDataGridWithSearch
+2025-08-30 13:44:48 - Not on Manage Subnets tab, not showing status bar
+2025-08-30 13:44:48 - Retrieved 176 subnet entries
+2025-08-30 13:44:48 - Updating txtStatusBarSubnets text to: Total Subnets: 176
+2025-08-30 13:44:48 - Updating txtStatusBarSelected text
+2025-08-30 13:44:48 - Initializing IP Network event handlers
+2025-08-30 13:44:48 - MainStatusBar object exists: True
+2025-08-30 13:44:48 - txtStatusBarSubnets object exists: True
+2025-08-30 13:44:48 - txtStatusBarSelected object exists: True
+2025-08-30 13:44:48 - Current MainStatusBar visibility: Collapsed
+2025-08-30 13:44:48 - Set MainStatusBar visibility to: Visible
+2025-08-30 15:06:52 - Entering Update-SubnetDataGridWithSearch
+2025-08-30 15:06:52 - Update-SubnetDataGridWithSearch called
+2025-08-30 15:06:52 - Retrieved 176 subnet entries
+2025-08-30 15:06:52 - Updating txtStatusBarSubnets text to: Total Subnets: 176
+2025-08-30 15:06:52 - Updating txtStatusBarSelected text
+2025-08-30 15:06:52 - Initializing IP Network event handlers
+2025-08-30 15:06:52 - MainStatusBar object exists: True
+2025-08-30 15:06:52 - txtStatusBarSubnets object exists: True
+2025-08-30 15:06:52 - txtStatusBarSelected object exists: True
+2025-08-30 15:06:52 - Current MainStatusBar visibility: Collapsed
+2025-08-30 15:06:52 - Set MainStatusBar visibility to: Visible
+2025-08-30 15:06:56 - Entering Update-SubnetDataGridWithSearch
+2025-08-30 15:06:57 - Update-SubnetDataGridWithSearch called
+2025-08-30 15:06:57 - Retrieved 176 subnet entries
+2025-08-30 15:06:57 - Updating txtStatusBarSubnets text to: Total Subnets: 176
+2025-08-30 15:06:57 - Updating txtStatusBarSelected text
+2025-08-30 15:07:16 - Entering Update-SubnetDataGridWithSearch
+2025-08-30 15:07:16 - Update-SubnetDataGridWithSearch called
+2025-08-30 15:07:16 - Retrieved 176 subnet entries
+2025-08-30 15:07:16 - Updating txtStatusBarSubnets text to: Total Subnets: 176
+2025-08-30 15:07:16 - Updating txtStatusBarSelected text
+2025-08-30 15:07:16 - Initializing IP Network event handlers
+2025-08-30 15:07:16 - MainStatusBar object exists: True
+2025-08-30 15:07:16 - txtStatusBarSubnets object exists: True
+2025-08-30 15:07:16 - txtStatusBarSelected object exists: True
+2025-08-30 15:07:16 - Current MainStatusBar visibility: Collapsed
+2025-08-30 15:07:16 - Set MainStatusBar visibility to: Visible
+2025-08-30 15:07:18 - Entering Update-SubnetDataGridWithSearch
+2025-08-30 15:07:18 - Update-SubnetDataGridWithSearch called
+2025-08-30 15:07:18 - Retrieved 176 subnet entries
+2025-08-30 15:07:18 - Updating txtStatusBarSubnets text to: Total Subnets: 176
+2025-08-30 15:07:18 - Updating txtStatusBarSelected text
